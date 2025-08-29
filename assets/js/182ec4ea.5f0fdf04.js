@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebstore_api_docs=self.webpackChunkwebstore_api_docs||[]).push([[908],{88992:e=>{e.exports=JSON.parse('{"title":"WebStore API v1.0.0","description":"WebStore API version 1.0.0 (Legacy)","slug":"/1.0.0/","permalink":"/vm-docs/1.0.0/","navigation":{"next":{"title":"Introduction","permalink":"/vm-docs/api/1.0.0/webstore-api"}}}')}}]);
